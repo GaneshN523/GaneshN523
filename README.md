@@ -60,12 +60,12 @@
   <div style="text-align:center;">
     <h2>📊 GitHub Stats & Activity</h2>
     <div style="display:flex; justify-content:center; flex-wrap:wrap;">
-      <!-- Updated Stats Card with private contributions enabled -->
+      <!-- GitHub Stats Card -->
       <img id="githubStats" src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="margin:10px;">
-      <!-- Top Languages Card remains unchanged -->
+      <!-- Top Languages Card -->
       <img id="topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin:10px;">
     </div>
-    <!-- Adding an Activity Graph Card to showcase overall contributions including PRs -->
+    <!-- Activity Graph Card -->
     <div style="margin-top:20px;">
       <img id="activityGraph" src="https://activity-graph.herokuapp.com/graph?username=ganeshn523&theme=tokyonight" alt="GitHub Activity Graph" style="width:100%; max-width:600px; border-radius:10px;">
     </div>
@@ -81,6 +81,6 @@
     document.getElementById('topLangs').src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true&t=" + timestamp;
     document.getElementById('activityGraph').src = "https://activity-graph.herokuapp.com/graph?username=ganeshn523&theme=tokyonight&t=" + timestamp;
   }
-  // Update cards every minute (60000 ms)
-  setInterval(updateGitHubCards, 60000);
+  // Update cards every 10 seconds for near-real-time data refresh
+  setInterval(updateGitHubCards, 10000);
 </script>
