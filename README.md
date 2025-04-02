@@ -2,6 +2,7 @@
   <div style="text-align:center;">
     <img src="https://user-images.githubusercontent.com/59380360/133537167-09f9d8b4-68d4-432b-9d44-c2f49f431a65.gif" alt="Header" style="width:100%; max-width:600px; border-radius:10px; margin-bottom:20px;">
     <h1 style="margin-bottom:5px;">🚀 Ganesh Nalawade</h1>
+    <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Programmer Typing" style="width:100%; max-width:600px; border-radius:10px; margin:15px 0;">
     <h3 style="font-weight:400; margin-top:0;">Electronics & Telecommunication Engineer | Python Developer | AI/ML Enthusiast</h3>
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
