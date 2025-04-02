@@ -1,4 +1,3 @@
-
 <div style="background-color:#0D1117; color:#C9D1D9; padding:40px; border-radius:15px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width:800px; margin:auto; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
   <div style="text-align:center;">
     <img src="https://user-images.githubusercontent.com/59380360/133537167-09f9d8b4-68d4-432b-9d44-c2f49f431a65.gif" alt="Header" style="width:100%; max-width:600px; border-radius:10px; margin-bottom:20px;">
@@ -62,14 +61,26 @@
     <h2>📊 GitHub Stats & Activity</h2>
     <div style="display:flex; justify-content:center; flex-wrap:wrap;">
       <!-- Updated Stats Card with private contributions enabled -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="margin:10px;">
+      <img id="githubStats" src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="margin:10px;">
       <!-- Top Languages Card remains unchanged -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin:10px;">
+      <img id="topLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin:10px;">
     </div>
     <!-- Adding an Activity Graph Card to showcase overall contributions including PRs -->
     <div style="margin-top:20px;">
-      <img src="https://activity-graph.herokuapp.com/graph?username=ganeshn523&theme=tokyonight" alt="GitHub Activity Graph" style="width:100%; max-width:600px; border-radius:10px;">
+      <img id="activityGraph" src="https://activity-graph.herokuapp.com/graph?username=ganeshn523&theme=tokyonight" alt="GitHub Activity Graph" style="width:100%; max-width:600px; border-radius:10px;">
     </div>
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
 </div>
+
+<script>
+  // Function to update image sources with a unique timestamp to bypass caching
+  function updateGitHubCards() {
+    const timestamp = new Date().getTime();
+    document.getElementById('githubStats').src = "https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&t=" + timestamp;
+    document.getElementById('topLangs').src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true&t=" + timestamp;
+    document.getElementById('activityGraph').src = "https://activity-graph.herokuapp.com/graph?username=ganeshn523&theme=tokyonight&t=" + timestamp;
+  }
+  // Update cards every minute (60000 ms)
+  setInterval(updateGitHubCards, 60000);
+</script>
