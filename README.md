@@ -2,8 +2,11 @@
   <div style="text-align:center;">
     <img src="https://user-images.githubusercontent.com/59380360/133537167-09f9d8b4-68d4-432b-9d44-c2f49f431a65.gif" alt="Header" style="width:100%; max-width:600px; border-radius:10px; margin-bottom:20px;">
     <h1 style="margin-bottom:5px;">🚀 Ganesh Nalawade</h1>
-    <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" alt="Programmer Typing" style="width:100%; max-width:600px; border-radius:10px; margin:15px 0;">
-    <h3 style="font-weight:400; margin-top:0;">Electronics & Telecommunication Engineer | Python Developer | AI/ML Enthusiast</h3>
+    <blockquote style="font-style:italic; border-left: 4px solid #58A6FF; padding-left:15px; margin:20px auto; max-width:600px;">
+      "Code is like humor. When you have to explain it, it’s bad." – Cory House
+    </blockquote>
+    <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" style="width:100%; max-width:300px; border-radius:10px; margin-top:15px;">
+    <h3 style="font-weight:400; margin-top:20px;">Electronics & Telecommunication Engineer | Python Developer | AI/ML Enthusiast</h3>
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
   
@@ -61,13 +64,5 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin:10px;">
     </div>
     <hr style="border:1px solid #30363d; margin:20px 0;">
-  </div>
-
-  <div style="text-align:center;">
-    <h2>💡 Quote to Live By</h2>
-    <blockquote style="font-style:italic; border-left: 4px solid #58A6FF; padding-left:15px;">
-      \"Code is like humor. When you have to explain it, it’s bad.\" – Cory House
-    </blockquote>
-    <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" style="width:100%; max-width:300px; border-radius:10px; margin-top:20px;">
   </div>
 </div>
