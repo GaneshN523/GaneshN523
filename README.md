@@ -58,10 +58,16 @@
   </div>
 
   <div style="text-align:center;">
-    <h2>📊 GitHub Stats</h2>
+    <h2>📊 GitHub Stats & Activity</h2>
     <div style="display:flex; justify-content:center; flex-wrap:wrap;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin:10px;">
+      <!-- Updated Stats Card with private contributions enabled -->
+      <img src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" style="margin:10px;">
+      <!-- Top Languages Card remains unchanged -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin:10px;">
+    </div>
+    <!-- Adding an Activity Graph Card to showcase overall contributions including PRs -->
+    <div style="margin-top:20px;">
+      <img src="https://activity-graph.herokuapp.com/graph?username=ganeshn523&theme=tokyonight" alt="GitHub Activity Graph" style="width:100%; max-width:600px; border-radius:10px;">
     </div>
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
