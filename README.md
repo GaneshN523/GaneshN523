@@ -10,6 +10,7 @@
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
   
+  
   <div style="text-align:center;">
     <h2>🛠️ Tech Stack & Skills</h2>
     <div style="margin:20px 0;">
