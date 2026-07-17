@@ -84,44 +84,4 @@
   <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
 
-  <div style="text-align:center;">
-    <h2>Connect With Me</h2>
-
-  <div style="margin:20px 0;">
-
-  <a href="https://ganeshn523.github.io/MyPortfolio/#/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-
-  <a href="https://ganeshn523.github.io/resumes/" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white">
-  </a>
-
-  <a href="mailto:ganeshnalawade523@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  </div>
-
-  <p style="line-height:1.8;">
-    <strong>Ask Me About:</strong> Python, FastAPI, Flask, Backend Development, REST APIs, AI Applications, LangChain, CrewAI, AutoGen, Ollama, Vector Databases, Open Source Development
-  </p>
-
-  <hr style="border:1px solid #30363d; margin:20px 0;">
-  </div>
-
-  <div style="text-align:center;">
-    <h2>GitHub Stats</h2>
-
-  <div style="display:flex; justify-content:center; flex-wrap:wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true">
-
-  </div>
-
-  <hr style="border:1px solid #30363d; margin:20px 0;">
-  </div>
-
 </div>
