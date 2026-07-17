@@ -1,71 +1,127 @@
 <div style="background-color:#0D1117; color:#C9D1D9; padding:40px; border-radius:15px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width:800px; margin:auto; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
+
   <div style="text-align:center;">
-    <img src="https://user-images.githubusercontent.com/59380360/133537167-09f9d8b4-68d4-432b-9d44-c2f49f431a65.gif" alt="Header" style="width:100%; max-width:600px; border-radius:10px; margin-bottom:20px;">
-    <h1 style="margin-bottom:5px;">🚀 Ganesh Nalawade</h1>
-    <blockquote style="font-style:italic; border-left: 4px solid #58A6FF; padding-left:15px; margin:20px auto; max-width:600px;">
-      "Code is like humor. When you have to explain it, it’s bad." – Cory House
-    </blockquote>
-    <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" alt="Coding GIF" style="width:100%; max-width:300px; border-radius:10px; margin-top:15px;">
-    <h3 style="font-weight:400; margin-top:20px;">Electronics & Telecommunication Engineer | Python Developer | AI/ML Enthusiast</h3>
-    <hr style="border:1px solid #30363d; margin:20px 0;">
-  </div>
-  
-  
-  <div style="text-align:center;">
-    <h2>🛠️ Tech Stack & Skills</h2>
-    <div style="margin:20px 0;">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:5px;">
-      <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin:5px;">
-      <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL" style="margin:5px;">
-      <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin:5px;">
-      <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" style="margin:5px;">
-      <img src="https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" alt="REST API" style="margin:5px;">
-    </div>
-    <p style="line-height:1.8;">
-      <strong>Programming:</strong> C, Core Python, SQL, Pandas, Numpy<br>
-      <strong>Frameworks & Tools:</strong> Streamlit, REST API, Embedded Systems<br>
-      <strong>Cloud & Data:</strong> AWS Cloud Basics, Data Structures<br>
-      <strong>Software Development:</strong> OOP, Cloud Computing, ML Fundamentals
-    </p>
+    <h2>Python Backend Developer</h2>
+    <h3 style="font-weight:400; margin-top:20px;">
+      Backend APIs | AI Applications | Open Source Python Library Maintainer
+    </h3>
     <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
 
-  <div style="text-align:center;">
-    <h2>🌱 Learning & Work</h2>
-    <p style="line-height:1.8;">
-      🔸 Currently working on <strong>Machine Learning fundamental projects</strong><br>
-      🔸 Exploring the fields of <strong>AI/ML & Cloud Computing</strong>
-    </p>
-    <hr style="border:1px solid #30363d; margin:20px 0;">
+  <div style="text-align:left;">
+    <h2>About Me</h2>
+
+- Python Backend Developer focused on building scalable backend systems and REST APIs.
+- Experienced with **FastAPI** and **Flask** for production-ready API development.
+- Built AI and ML applications using **Pandas**, **NumPy**, **Scikit-learn**, **LangChain**, **CrewAI**, **AutoGen**, **Ollama (Local LLMs)**, and **Groq API**.
+- Worked with **ChromaDB** and **FAISS** for vector search and RAG applications.
+- Developed and maintained multiple **Open Source Python libraries** for over a year.
+- Built developer tools including:
+  - Text-to-Speech (TTS) libraries.
+  - Automatic API endpoint detection using Python AST parsing.
+  - API testing and report generation utilities.
+- Passionate about backend architecture, AI integrations, automation, and developer tooling.
+
+  <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
 
   <div style="text-align:center;">
-    <h2>📢 Connect With Me</h2>
-    <div style="margin:20px 0;">
-      <a href="https://ganeshn523.github.io/MyPortfolio/#/" target="_blank" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="margin:5px;">
-      </a>
-      <a href="https://ganeshn523.github.io/resumes/" target="_blank" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" style="margin:5px;">
-      </a>
-      <a href="mailto:ganeshnalawade523@gmail.com" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px;">
-      </a>
-    </div>
-    <p style="line-height:1.8;">
-      💬 <strong>Ask Me About:</strong> REST APIs, Python Development, SQL, C, Cloud, Networking, Fundamentals of LLMs
-    </p>
-    <hr style="border:1px solid #30363d; margin:20px 0;">
+    <h2>Tech Stack</h2>
+
+  <div style="margin:20px 0;">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/CrewAI-6C63FF?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/AutoGen-5B21B6?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Groq-00A67E?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/ChromaDB-6E57E0?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
+
+  </div>
+
+  <p style="line-height:1.8;">
+    <strong>Backend:</strong> Python, FastAPI, Flask, REST APIs<br>
+    <strong>AI & ML:</strong> Pandas, NumPy, Scikit-learn, LangChain, CrewAI, AutoGen, Ollama, Groq API<br>
+    <strong>Vector Databases:</strong> ChromaDB, FAISS<br>
+    <strong>Developer Tools:</strong> AST Parsing, API Testing, Report Generation, Open Source Libraries
+  </p>
+
+  <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
 
   <div style="text-align:center;">
-    <h2>📊 GitHub Stats</h2>
-    <div style="display:flex; justify-content:center; flex-wrap:wrap;">
-      <!-- GitHub Stats Card with real-time data (cache disabled) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=0" alt="GitHub Stats" style="margin:10px;">
-      <!-- Top Languages Card with real-time data (cache disabled) -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Top Languages" style="margin:10px;">
-    </div>
-    <hr style="border:1px solid #30363d; margin:20px 0;">
+    <h2>Currently Working On</h2>
+
+  <p style="line-height:1.8;">
+    Building scalable Python backend systems.<br>
+    Developing AI-powered applications using local and hosted LLMs.<br>
+    Maintaining and improving Open Source Python libraries.
+  </p>
+
+  <hr style="border:1px solid #30363d; margin:20px 0;">
   </div>
+
+  <div style="text-align:center;">
+    <h2>Connect With Me</h2>
+
+  <div style="margin:20px 0;">
+
+  <a href="https://ganeshn523.github.io/MyPortfolio/#/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+  <a href="https://ganeshn523.github.io/resumes/" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
+
+  <a href="mailto:ganeshnalawade523@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  </div>
+
+  <p style="line-height:1.8;">
+    <strong>Ask Me About:</strong> Python, FastAPI, Flask, Backend Development, REST APIs, AI Applications, LangChain, CrewAI, AutoGen, Ollama, Vector Databases, Open Source Development
+  </p>
+
+  <hr style="border:1px solid #30363d; margin:20px 0;">
+  </div>
+
+  <div style="text-align:center;">
+    <h2>GitHub Stats</h2>
+
+  <div style="display:flex; justify-content:center; flex-wrap:wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshn523&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshn523&layout=compact&theme=tokyonight&hide_border=true">
+
+  </div>
+
+  <hr style="border:1px solid #30363d; margin:20px 0;">
+  </div>
+
 </div>
